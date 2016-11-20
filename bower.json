@@ -1,0 +1,17 @@
+{
+  "name": "Day2-p1",
+  "homepage": "https://github.com/oomella/Day2-p1",
+  "authors": [
+    "oomella <oomchristina2013@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
